@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+.texto {
+	width: 300px;
+	height: 100px;
+	background-color: #EEEEEE;
+	color: #FF0000;
+	font-size: 20px;
+	font-family: Helvetica,Verdana;
+	font-weight: bold; /* normal bold números*/
+	text-align: center; 
+	text-decoration: underline;
+	margin-bottom: 10px;
+
+	display: inline; /* none block inline inline-block*/
+}

@@ -1,0 +1,15 @@
+body {
+	margin: 20px;
+}
+.teste {
+	background-color: #999999;
+	color: #FFFFFF;
+	width: 400px;
+	height: 400px;
+	border: 5px solid #FF0000; /* solid dotted dashed  */
+	border-radius: 10px;
+}
+#imagem {
+	border: 2px solid #FF0000;
+	border-radius: 10px;
+}

@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+}
+.texto {
+	width: 500px;
+	height: 200px;
+	background-color: #EEEEEE;
+	color: red;
+	font-size: 40px;
+	font-family: Helvetica,Verdana,Arial;
+	font-weight: 600; /* normal bold números*/
+	text-align: center; 
+	text-transform: lowercase; /* uppercase, lowercase */
+	text-decoration: underline;
+}
